@@ -1,0 +1,3 @@
+apiUrl: https://spark-api-open.xf-yun.com/v1/chat/completions
+# api密码 获取请从官方获取 https://console.xfyun.cn/services/cbm
+APIPassword: aabbccddeeffgghh
